@@ -1,4 +1,4 @@
 #JS-Tic-Tac-Toe
 
 <br>
-<img scr="./images/Tic-Tac-Toe.png" height="400" width="400">
+<img scr="https://raw.githubusercontent.com/emilyzugel/JS-Tic-Tac-Toe/refs/heads/main/images/Tic-Tac-Toe.png" height="400" width="400">
